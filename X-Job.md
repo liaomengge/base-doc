@@ -1,4 +1,4 @@
-### xxl-job整理
+### xxl-job总结
 
 1. ##### xxl-job优化
 
@@ -33,15 +33,13 @@
    >
    >   内存60%，CPU60%
    >
-   >   <img src="/Users/liaomengge/Library/Application Support/typora-user-images/image-20210610151520832.png" alt="image-20210610151520832"  />
+   >   <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gu03xkzinbj61bc0ce0tx02.jpg" alt="image-20210610151520832"  />
    >
-   >   <img src="/Users/liaomengge/Library/Application Support/typora-user-images/image-20210610151608553.png" alt="image-20210610151608553"  />
+   >   <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gu03xoaef6j60rw0kajs002.jpg" alt="image-20210610151608553"  />
    >
-   >   <img src="/Users/liaomengge/Library/Application Support/typora-user-images/image-20210610151746948.png" alt="image-20210610151746948"  />
+   >   <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gu03yrqin6j60vo0akdgp02.jpg" alt="image-20210610151746948"  />
    >
-   >   <img src="/Users/liaomengge/Library/Application Support/typora-user-images/image-20210610151819209.png" alt="image-20210610151819209"  />
-   >
-   >   ![image-20210610151921301](/Users/liaomengge/Library/Application Support/typora-user-images/image-20210610151921301.png)
+   >   <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gu03yqvnknj60vw0ao76102.jpg" alt="image-20210610151819209"  />
    >
    >
 
